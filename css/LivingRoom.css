@@ -1,0 +1,27 @@
+#Box1 {font-family:Arial; 
+	background-color:#EEEEEE;
+	width:250px;
+	float: left;
+	border-top:orange
+	solid 17px;
+	margin-right: 20px;
+	margin-left: 30px;
+	margin-bottom: 20px}
+
+#Box2 {font-family: Arial;
+	background-color:#EEEEEE;
+	width:250px;
+	float: left;
+	border-top:#FF0000
+	solid 17px;
+	margin-right:20px;
+	margin-bottom: 20px}
+
+#Box3 {font-family: Arial;
+	background-color:#EEEEEE;
+	width:250px;
+	float: left;
+	border-top:#0000FF
+	solid 17px;
+	margin-right:20px;
+	margin-bottom: 20px}
